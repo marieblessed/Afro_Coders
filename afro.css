@@ -1,0 +1,38 @@
+/* Tag based selector*/
+body{
+    color: black;
+    background-color: #faebd7;
+    font-family:papyrus,fantasy;
+    font-size: 1.2em;
+    
+}
+h1{
+    color: blue;
+    font-family: cursive;
+}
+h2{
+    color: green;
+}
+/* id based selector*/
+#html-anatomy-heading{
+    color: red;
+}
+#hello-afrocoders-welcome{
+    text-decoration: underline;
+    color: grey;
+    font-family: cursive;
+}
+/* class based selector*/
+.underliny{
+    text-decoration: underline;
+}
+/* changing text of a particular part in the paragraph*/
+#intro-ps{
+font-style: italic;
+font-size: 0.8em;
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 1.2em;
+}
